@@ -1,0 +1,262 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section-ja{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+.ja{
+    font-weight: bolder;
+    text-align: center;
+    font-size: larger;
+    padding-top: 30px;
+}
+.section-ja-1{
+    height: 400px;
+    width: 100%;
+}
+.ja-1{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+.ja-A{
+    height: 300px;
+    width: 33.3%;
+    text-align: center;
+    background-color: white;
+}
+.ja-A img{
+    height: 300px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.ja-B{
+    height: 300px;
+    width: 33.3%;
+    text-align: center;
+
+}
+.ja-B img{
+    height: 300px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.ja-C{
+    height: 300px;
+    width: 33.3%;
+    text-align: center;
+}
+.ja-C img{
+    height: 300px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.section-j{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(235, 232, 232);
+}
+.j{
+    font-weight: bolder;
+    text-align: center;
+    font-size: larger;
+    padding-top: 40px;
+}
+.section-ja-2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(241, 231, 231);
+}
+.icons-ja{
+    height: 100px;
+    width: 100%;
+     padding-top: 30px;
+    display: flex;
+    
+}
+.icon-a{
+    height: 100px;
+    width: 25%;
+    margin-left: 40px;
+    text-align: center;
+
+}
+.icon-a img{
+    width: 20%;
+
+    
+}
+
+.icon-b{
+    height: 100px;
+    width: 25%;
+    text-align: center;
+}
+.icon-b img{
+    width: 25%;
+ 
+    
+}
+
+.icon-c{
+    height: 100px;
+    width: 25%;
+    text-align: center;
+}
+.icon-c img{
+    width: 25%;
+
+}
+
+.icon-d{
+        height: 100px;
+        width: 25%;
+        text-align: center;
+}
+    .icon-d img{
+        width: 25%;
+
+}
+.lan-ja{
+    height: 100px;
+    width: 100%;
+}
+.line-ja{
+    padding-top: 70px;
+}
+
+.section-ja-3{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+}
+.icons-jj{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    color: white;
+    
+}
+.icon-j1{
+    height: 400px;
+    width: 20%;
+    padding-left: 40px;
+
+
+    
+}
+
+.icon-j2{
+    height: 400px;
+    width: 25%;
+    padding-left: 40px;
+ 
+    
+}
+
+.icon-j3{
+    height: 400px;
+    width: 25%;
+    padding-left: 40px;
+
+}
+
+.icon-j4{
+        height: 400px;
+        width: 30%;
+        padding-left: 40px;
+}
+.onlin-ja{
+gap: 15px;
+display: flex;
+margin-top: 20px;
+}
+
+ .onlin-ja-1{
+    width: 10%;
+    height: 30px;
+}
+.onlin-ja-1 img{
+    width: 100%;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    
+}
+.onlin-ja-2{
+    width: 10%;
+    height: 30px;
+}
+.onlin-ja-2 img{
+    width: 100%;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.onlin-ja-3{
+    width: 10%;
+    height: 30px;
+}
+.onlin-ja-3 img{
+    width: 100%;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.onlin-ja-4{
+    width: 10%;
+    height: 30px;
+}
+.onlin-ja-4 img{
+    width: 100%;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}                   
+.onlin-ja-5{
+    width: 10%;
+    height: 30px;
+}
+.onlin-ja-5 img{
+    width: 100%;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+
+} 
+.note-ja h4{
+    margin-top: 20px;
+} 
+footer{
+
+}
+
+footer{
+    background-color: black;
+    color: white;
+
+}
+.top-footer{
+    display: flex;
+    align-items: center;
+    padding: 40px 0;
+}
+.section-ja-4{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+
+}
+.jt{
+    color: white;
+    margin-left: 40px;
+    padding-top: 30px;
+}
