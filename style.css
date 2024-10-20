@@ -2,6 +2,63 @@
     padding: 0;
     margin: 0;
 }
+.section-ja-first{
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.first-ja-1{
+    height: 400px;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.first-ja-a{
+    height: 200px;
+    width: 30%;
+    margin-left: 50px;
+
+}
+.first-ja-a img{
+    height: 200px;
+    width: 100%;
+}
+.first-ja-b{
+    height: 150px;
+    width: 30%;
+    background-color: white;
+    margin-left: 40px;
+}
+
+.first-ja-2{
+    height: 400px;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    
+    align-items: center;
+    gap: 30px;
+}
+
+.first-ja-c{
+    height: 200px;
+    width: 30%;
+    margin-left: 50px;
+
+}
+
+.first-ja-c img{
+    height: 200px;
+    width: 100%;
+}
+.first-ja-d{
+    height: 100px;
+    width: 40%;
+    background-color: white;
+    margin-left: 40px;
+}
 .section-ja{
     height: 100px;
     width: 100%;
